@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2019-12-05T14:59:54.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" version="12.3.7" etag="BiiBMP29bjGVr4Et12Ct" type="github"><diagram id="3xXI39jnR7B76106hasf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-05T15:15:59.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d-KwKvBlYzt7ghQxNtf0" version="12.3.7" type="github" pages="1">
+  <diagram id="3xXI39jnR7B76106hasf" name="第 1 页">
+    <mxGraphModel dx="786" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-1" value="&lt;h1&gt;Java集合学习笔记&lt;/h1&gt;&lt;p&gt;LinkedList、Vector、Stack、Queue&lt;/p&gt;&lt;p&gt;mark：&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;集合：存储一组元素--&amp;gt;容器&amp;nbsp; 与 数组类似&lt;/li&gt;&lt;li&gt;数组创建后长度不可变&amp;nbsp;&lt;/li&gt;&lt;li&gt;集合创建后长度可变（数据结构 Array Linked Hash Tree）&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="50" y="10" width="420" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="1aIFUvcx2rQvHL8H3FVU-2" target="1aIFUvcx2rQvHL8H3FVU-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="1aIFUvcx2rQvHL8H3FVU-2" target="1aIFUvcx2rQvHL8H3FVU-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-2" value="Collection&lt;br&gt;以value形式存储" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-8" value="List&lt;br&gt;有序可重复" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-3" value="Map&lt;br&gt;以key-value形式存储" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="620" y="252.5" width="120" height="35" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-12" value="Set&lt;br&gt;无序无重复" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="1aIFUvcx2rQvHL8H3FVU-16" target="1aIFUvcx2rQvHL8H3FVU-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1aIFUvcx2rQvHL8H3FVU-16" target="1aIFUvcx2rQvHL8H3FVU-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-16" value="集合" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="170" width="130" height="30" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
