@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-05T15:15:59.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="d-KwKvBlYzt7ghQxNtf0" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-05T15:19:14.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="JfW3aH8nAhEo06tzVpxa" version="12.3.7" type="github" pages="1">
   <diagram id="3xXI39jnR7B76106hasf" name="第 1 页">
-    <mxGraphModel dx="786" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="458" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="1aIFUvcx2rQvHL8H3FVU-16" value="集合" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="1aIFUvcx2rQvHL8H3FVU-24" value="key无序无重复 value无序可重复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="180" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
