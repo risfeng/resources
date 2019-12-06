@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T06:17:50.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YLiuMsrB3iy2h94Uuf2E" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T06:49:43.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="wAkmg5C6gUG7vny9Hz8Y" version="12.3.7" type="github" pages="1">
   <diagram id="ZoAS8rqlWyaObS6gHvZb" name="第 1 页">
     <mxGraphModel dx="854" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,29 +16,74 @@
         <mxCell id="0UxOaTRp_UosbiCLDMe3-5" value="Java虚拟机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=1;fontFamily=Comic Sans MS;fontStyle=1;glass=1;shadow=1;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
           <mxGeometry x="245" width="70" height="20" as="geometry"/>
         </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-8" target="0UxOaTRp_UosbiCLDMe3-12">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-8" value="类装载子系统" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
-          <mxGeometry x="20" y="40" width="120" height="40" as="geometry"/>
+          <mxGeometry x="20" y="60" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;entryX=0;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-10" target="0UxOaTRp_UosbiCLDMe3-12">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-10" value="字节码执行引擎" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
-          <mxGeometry x="20" y="180" width="120" height="40" as="geometry"/>
+          <mxGeometry x="20" y="165" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-12" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
-          <mxGeometry x="180" y="30" width="340" height="190" as="geometry"/>
+          <mxGeometry x="180" y="30" width="360" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-13" value="运行时数据区（内存模型）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;comic=1;fontFamily=Comic Sans MS;fontStyle=1;glass=1;shadow=1;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
-          <mxGeometry x="290" y="40" width="160" height="20" as="geometry"/>
+          <mxGeometry x="282.5" y="40" width="160" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-14" value="本地方法栈" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
           <mxGeometry x="195" y="80" width="95" height="60" as="geometry"/>
         </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-23" target="0UxOaTRp_UosbiCLDMe3-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-23" value="栈（线程）" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
-          <mxGeometry x="315" y="80" width="95" height="60" as="geometry"/>
+          <mxGeometry x="310" y="80" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-24" value="堆" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
+          <mxGeometry x="420" y="80" width="95" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-25" value="程序计数器" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
+          <mxGeometry x="200" y="170" width="195" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-26" target="0UxOaTRp_UosbiCLDMe3-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-26" value="方法区&lt;br&gt;（元空间）&lt;br&gt;常量+静态变量+类信息" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-6">
+          <mxGeometry x="412.5" y="160" width="110" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-10" target="0UxOaTRp_UosbiCLDMe3-25">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-33" value="修改指令序号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="0UxOaTRp_UosbiCLDMe3-32">
+          <mxGeometry x="-0.4144" y="2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0UxOaTRp_UosbiCLDMe3-6" source="0UxOaTRp_UosbiCLDMe3-10" target="0UxOaTRp_UosbiCLDMe3-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="250"/>
+              <mxPoint x="468" y="250"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-35" value="执行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="0UxOaTRp_UosbiCLDMe3-34">
+          <mxGeometry x="-0.0444" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-2" value="JvmDemo.class" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#E6FFCC;" vertex="1" parent="1">
           <mxGeometry x="300" y="90" width="120" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;verticalAlign=top;" edge="1" parent="1" source="0UxOaTRp_UosbiCLDMe3-2" target="0UxOaTRp_UosbiCLDMe3-8">
           <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-36" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=1;fontFamily=Comic Sans MS;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="910" y="180" width="120" height="300" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
