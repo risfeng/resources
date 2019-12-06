@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-06T07:44:36.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="2XTTbjbt9ilqqxNAWeVr" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T07:44:53.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ocSGenVxH_hWDeaaP227" version="12.3.7" type="github" pages="1">
   <diagram id="ZoAS8rqlWyaObS6gHvZb" name="第 1 页">
     <mxGraphModel dx="854" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
         <mxCell id="0UxOaTRp_UosbiCLDMe3-115" value="S1（To）" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="0UxOaTRp_UosbiCLDMe3-112">
           <mxGeometry x="258" y="33" width="112" height="47" as="geometry"/>
         </mxCell>
-        <mxCell id="0UxOaTRp_UosbiCLDMe3-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;comic=1;fillColor=#C3ABD0;gradientColor=none;fontFamily=Comic Sans MS;fontSize=17;rotation=-90;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="0UxOaTRp_UosbiCLDMe3-118" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=1;comic=1;fontFamily=Comic Sans MS;fontSize=17;rotation=-90;strokeWidth=2;dashed=1;strokeColor=#B5739D;" vertex="1" parent="1">
           <mxGeometry x="785" y="765" width="64" height="164" as="geometry"/>
         </mxCell>
         <mxCell id="0UxOaTRp_UosbiCLDMe3-120" value="Survivor区" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;comic=1;fontFamily=Comic Sans MS;fontSize=17;" vertex="1" parent="1">
